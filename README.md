@@ -1,15 +1,5 @@
 # RGV-FAWC-AI-Chatbot
 
-<<<<<<< HEAD
-This project was done for CSCI 3351 AI-Powered Apps With Mr. Eric Martinez. 
-
-Created using Python3, Gradio, OPENAI API, and SQLite databases 
-
-This AI Chatbot named Sparky simulates an app that allows users to sign up for cleanup events using databases and prompt engineering 
-
-*This file requires a .env file with an OPENAI_API_Base and OPENAI_API_KEY in order to work. May need updated versions of dependency software as well, so it does not currently work
-(Never put your API base or key directly in the public repo)
-=======
 ### This project was done for CSCI 3351 AI-Powered Apps With Mr. Eric Martinez. It was created using Python3, Gradio, OPENAI API, and SQLite databases. This AI Chatbot named Sparky simulates an app that allows users to sign up for cleanup events using databases and prompt engineering.
 ### *This file requires a .env file with an OPENAI_API_BASE and OPEN_API_KEY in order to work. May need updated versions of dependency software as well, so it does not currently work (Never put your API base or key directly in the public repo)
 
@@ -31,6 +21,5 @@ This AI Chatbot named Sparky simulates an app that allows users to sign up for c
 ### . Add additional tools for GPT 4.0 to leverage
 
 ### . Deploy Sparky to a rendering service to make it accessible to volunteers
->>>>>>> 8ed224d (fixed README.md)
 
 
